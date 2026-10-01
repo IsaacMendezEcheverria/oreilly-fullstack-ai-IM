@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "cloudinary": "^1.41.2"
+    "cloudinary": "^2.11.0"
   },
   "name": "genai",
   "version": "1.0.0",
