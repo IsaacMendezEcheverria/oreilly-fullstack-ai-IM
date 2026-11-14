@@ -11,8 +11,8 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "@langchain/openai": "^0.0.10",
-    "langchain": "^0.1.1",
+    "@langchain/openai": "^1.6.0",
+    "langchain": "^1.5.14",
     "pdf-parse": "^1.1.1",
     "youtube-transcript": "^1.0.6",
     "youtubei.js": "^5.8.0"
